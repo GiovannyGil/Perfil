@@ -1,0 +1,341 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Giovanny",
+      "surnames": "Gil",
+      "title": "--",
+      "description": "Soy Giovanny Chica, un desarrollador de Medellín, Colombia, con experiencia en el diseño y desarrollo de aplicaciones web orientadas al ámbito de inventario/control, así como en pequeños proyectos relacionados con Machine Learning. Mi conjunto de habilidades incluye lenguajes como Python, JavaScript y SQL, junto con sus respectivos Frameworks. Mi verdadera pasión radica en la innovación y la creatividad, y soy un firme creyente de que siempre hay margen para la mejora en cualquier proyecto. Cuando me enfrento a desafíos y problemas, mi enfoque es sumergirme en el tema para comprenderlo a fondo, lo que me permite abordar proyectos de manera más efectiva y con una actitud positiva.\n\nDesarrollador, Medellín",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/06/7b39dfdd-8368-44a7-8400-6e928895c158_linkedin-photo-43650.linkedin-photo-43650",
+        "alt": "23/11/06/7b39dfdd-8368-44a7-8400-6e928895c158_linkedin-photo-43650.linkedin-photo-43650"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJXyJG8n2CRo4RrsF4AMabT7A)",
+        "country": "Colombia",
+        "region": "Antioquia",
+        "municipality": "Medellín"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/giovanny-gil-187191212/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/GiovannyGil?tab=repositories"
+      }
+    ]
+  },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "Proyecto de Grados básico",
+          "description": "En este proyecto se empleo el manejo y control de las \"existencias\" para dar un control más medido a los manejos de la misma empresa",
+          "URL": "https://github.com/GiovannyGil/SGNAN",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/28/360e5ce1-f9b5-4864-928f-0ab981e90609_captura.png",
+            "alt": "Captura.PNG"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-04-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPMyAdmin",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-07-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Reconocimieno Facila",
+          "description": "Sistema de reconocimiento facial, registro y detección facial, con apartado grafico para el registro o por consola.\n(aun en proceso)\nDebe servir para detectar las personas y si están en su base de datos, permitirle el ingreso a las instalaciones",
+          "URL": "https://github.com/GiovannyGil/Reconocimiento-Facial.git"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-09-01",
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "OpenCV",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "AppMovil y Clasificación de IMAGENES",
+          "description": "Aplicación que hace uso de un modelo entrenado con Python para la clasificación e imágenes, usando Ionic, también haciendo el modelo y añadiéndole la funcionalidad de \"data_augmentation\"",
+          "URL": "https://github.com/GiovannyGil/Clasificador-AppMovil.git",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/28/155330cc-09ee-4b52-a117-25e1328701a5_ionic-app-(1).png",
+            "alt": "Ionic-App (1).png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-07-01",
+            "competences": [
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "TensorFlow",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-09-01"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Tecnólogo en Análisis y Desarrollo de Sistemas de la Información",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "SERVICIO NACIONAL DE APRENDIZAJE (SENA)",
+          "description": "Tecnología en Análisis y Desarrollo de Sistemas de la Información, realizada en la institución Servicio Nacional de Aprendizaje (SENA) en la Ciudad de Medellín, Colombia\nIniciado en enero de 2023 y culminado el ciclo lectivo en junio de 2023",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/25/134a0de4-aadf-42ca-b0d0-73a8f2a47ff5_slidesena_1.png",
+            "alt": "SlideSENA_1.png"
+          }
+        },
+        "finishDate": "2023-06-01",
+        "linkedCompetences": [
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Web3",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Comunicación escrita",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/giovanny-gil-187191212/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/GiovannyGil?tab=repositories",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "arvey950@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "3043209834",
+          "countryCode": "+57"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NoSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Github",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Como desarrollador de Backend en Medellín, Colombia, mi trabajo ideal implicaría la constante búsqueda de nuevos desafíos técnicos y la experimentación con soluciones innovadoras. Valoraría un entorno que fomente la colaboración multidisciplinaria y la posibilidad de contribuir tanto como miembro individual del equipo como en roles de liderazgo, siempre que se mantenga una comunicación transparente entre todos los niveles. Disfrutaría participando en proyectos creativos que marquen una diferencia tangible en el negocio y la oportunidad de expandir mis conocimientos, incluso en el desarrollo Frontend cuando sea pertinente. Mi día ideal de trabajo sería aquel en el que pueda aprender, innovar y contribuir de manera significativa a un ambiente estimulante y de constante evolución.",
+    "projects": [
+      {
+        "name": "AppMovil y Clasificación de IMAGENES"
+      },
+      {
+        "name": "Proyecto de Grados básico"
+      },
+      {
+        "name": "Reconocimieno Facila"
+      }
+    ]
+  }
+}
