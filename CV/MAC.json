@@ -274,6 +274,10 @@
           "type": "technology"
         },
         {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
           "name": "Django",
           "type": "technology"
         },
